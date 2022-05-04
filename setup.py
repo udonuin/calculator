@@ -8,7 +8,7 @@ setuptools.setup (
   author='udonuin',
   author_email='jihwang@donga.ac.kr',
   url = "https://github.com/udonuin/calculator",
-  download_url = ""
+  download_url = "https://github.com/udonuin/calculator/archive/refs/tags/v1.0.0.zip"
   install_requires=['pytest'], #관련라이브러리
   long_description = 'oss-dev calculator python module',
   long_description_content = 'text/markdown',
